@@ -35,8 +35,7 @@ def get_currencies():
     path = f"{DIR_PATH}/currencies.csv"
 
     column_names = ['country_code_2', 'currency_name', 'currency_code']
-    countries = pd.read_csv(path, sep=',', index_col=0, lineterminator='\n', names=column_names)
-    return countries
-
+    currencies = pd.read_csv(path, sep=',', index_col=0, lineterminator='\n', names=column_names)
+    return currencies
 
 print(get_currencies())
