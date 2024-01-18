@@ -13,12 +13,30 @@ SAVE_PATH = '../Processed'
 
 # load data
 def get_cities():
-    path = "../Raw/cities.csv"
+    path = f"{DIR_PATH}/cities.csv"
 
     column_names = ['city_name', 'latitude', 'longitude', 'country_code_2',
                     'capital', 'population', 'insert_date']
 
-    cities = pd.read_csv(path, sep=',', index_col=0, names=column_names)
+    cities = pd.read_csv(path, sep=',', index_col=0, lineterminator='\n', names=column_names)
     return cities
 
-print(get_cities())
+def get_countries():
+    path = f"{DIR_PATH}/countries.csv"
+
+    column_names = ['country_name', 'country_code_2', 'country_code_3', 'region',
+                    'sub_regiocreate_on', 'intermediate_region', 'insert_date']
+
+    countries = pd.read_csv(path, sep=',', index_col=0, lineterminator='\n', names=column_names)
+    return countries
+
+
+def get_currencies():
+    path = f"{DIR_PATH}/currencies.csv"
+
+    column_names = ['country_code_2', 'currency_name', 'currency_code']
+    countries = pd.read_csv(path, sep=',', index_col=0, lineterminator='\n', names=column_names)
+    return countries
+
+
+print(get_currencies())
