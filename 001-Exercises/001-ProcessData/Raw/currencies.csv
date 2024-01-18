@@ -1,0 +1,253 @@
+1,af,afghani,afn
+2,al,lek,all
+3,dz,algerian dinar,dzd
+4,as,us dollar,usd
+5,ad,euro,eur
+6,ao,kwanza,aoa
+7,ai,east caribbean dollar,xcd
+8,ag,east caribbean dollar,xcd
+9,ar,argentine peso,ars
+10,am,armenian dram,amd
+11,aw,aruban florin,awg
+12,au,australian dollar,aud
+13,at,euro,eur
+14,az,azerbaijan manat,azn
+15,bs,bahamian dollar,bsd
+16,bh,bahraini dinar,bhd
+17,bd,taka,bdt
+18,bb,barbados dollar,bbd
+19,by,belarusian ruble,byn
+20,be,euro,eur
+21,bz,belize dollar,bzd
+22,bj,cfa franc bceao,xof
+23,bm,bermudian dollar,bmd
+24,bt,indian rupee,inr
+25,bt,ngultrum,btn
+26,bo,boliviano,bob
+27,bo,mvdol,bov
+28,ba,convertible mark,bam
+29,bw,pula,bwp
+30,br,brazilian real,brl
+32,bn,brunei dollar,bnd
+33,bg,bulgarian lev,bgn
+34,bf,cfa franc bceao,xof
+35,bi,burundi franc,bif
+36,cv,cabo verde escudo,cve
+37,kh,riel,khr
+38,cm,cfa franc beac,xaf
+39,ca,canadian dollar,cad
+40,ky,cayman islands dollar,kyd
+41,cf,cfa franc beac,xaf
+42,td,cfa franc beac,xaf
+43,cl,chilean peso,clp
+44,cl,unidad de fomento,clf
+45,cn,yuan renminbi,cny
+46,cx,australian dollar,aud
+48,co,colombian peso,cop
+49,co,unidad de valor real,cou
+50,km,comorian franc,kmf
+51,cd,congolese franc,cdf
+52,cg,cfa franc beac,xaf
+53,ck,new zealand dollar,nzd
+54,cr,costa rican colon,crc
+55,ci,cfa franc bceao,xof
+56,hr,euro,eur
+57,cu,cuban peso,cup
+58,cu,peso convertible,cuc
+59,cw,netherlands antillean guilder,ang
+60,cy,euro,eur
+61,cz,czech koruna,czk
+62,dk,danish krone,dkk
+63,dj,djibouti franc,djf
+64,dm,east caribbean dollar,xcd
+65,do,dominican peso,dop
+66,ec,us dollar,usd
+67,eg,egyptian pound,egp
+68,sv,el salvador colon,svc
+69,sv,us dollar,usd
+70,gq,cfa franc beac,xaf
+71,er,nakfa,ern
+72,ee,euro,eur
+73,sz,lilangeni,szl
+74,et,ethiopian birr,etb
+75,fk,falkland islands pound,fkp
+76,fo,danish krone,dkk
+77,fj,fiji dollar,fjd
+78,fi,euro,eur
+79,fr,euro,eur
+80,gf,euro,eur
+81,pf,cfp franc,xpf
+82,ga,cfa franc beac,xaf
+83,gm,dalasi,gmd
+84,ge,lari,gel
+85,de,euro,eur
+86,gh,ghana cedi,ghs
+87,gi,gibraltar pound,gip
+88,gr,euro,eur
+89,gl,danish krone,dkk
+90,gd,east caribbean dollar,xcd
+91,gp,euro,eur
+92,gu,us dollar,usd
+93,gt,quetzal,gtq
+94,gn,guinean franc,gnf
+95,gw,cfa franc bceao,xof
+96,gn,guyana dollar,gyd
+97,ht,gourde,htg
+98,ht,us dollar,usd
+99,va,euro,eur
+100,hn,lempira,hnl
+101,hk,hong kong dollar,hkd
+102,hu,forint,huf
+103,is,iceland krona,isk
+104,in,indian rupee,inr
+105,id,rupiah,idr
+106,ir,iranian rial,irr
+107,iq,iraqi dinar,iqd
+108,ie,euro,eur
+109,im,pound sterling,gbp
+110,il,new israeli sheqel,ils
+111,it,euro,eur
+112,jm,jamaican dollar,jmd
+113,jp,yen,jpy
+114,je,pound sterling,gbp
+115,jo,jordanian dinar,jod
+116,kz,tenge,kzt
+117,ke,kenyan shilling,kes
+118,ki,australian dollar,aud
+119,kp,north korean won,kpw
+120,kr,won,krw
+121,kw,kuwaiti dinar,kwd
+122,kg,som,kgs
+123,la,lao kip,lak
+124,lv,euro,eur
+125,lb,lebanese pound,lbp
+126,ls,loti,lsl
+127,ls,rand,zar
+128,lr,liberian dollar,lrd
+129,ly,libyan dinar,lyd
+130,li,swiss franc,chf
+131,lt,euro,eur
+132,lu,euro,eur
+133,mo,pataca,mop
+134,mk,denar,mkd
+135,mg,malagasy ariary,mga
+136,mw,malawi kwacha,mwk
+137,my,malaysian ringgit,myr
+138,mv,rufiyaa,mvr
+139,ml,cfa franc bceao,xof
+140,mt,euro,eur
+141,mh,us dollar,usd
+142,mq,euro,eur
+143,mr,ouguiya,mru
+144,mu,mauritius rupee,mur
+145,yt,euro,eur
+146,mx,mexican peso,mxn
+147,mx,mexican unidad de inversion udi,mxv
+148,fm,us dollar,usd
+150,mc,euro,eur
+151,mn,tugrik,mnt
+152,me,euro,eur
+153,ms,east caribbean dollar,xcd
+154,ma,moroccan dirham,mad
+155,mz,mozambique metical,mzn
+156,mm,kyat,mmk
+157,na,namibia dollar,nad
+158,na,rand,zar
+159,nr,australian dollar,aud
+160,np,nepalese rupee,npr
+161,nl,euro,eur
+162,nc,cfp franc,xpf
+163,nz,new zealand dollar,nzd
+164,ni,cordoba oro,nio
+165,ni,cfa franc bceao,xof
+166,ng,naira,ngn
+167,nu,new zealand dollar,nzd
+168,nf,australian dollar,aud
+169,mp,us dollar,usd
+170,no,norwegian krone,nok
+171,om,rial omani,omr
+172,pk,pakistan rupee,pkr
+173,pw,us dollar,usd
+174,pa,balboa,pab
+175,pa,us dollar,usd
+176,pg,kina,pgk
+177,py,guarani,pyg
+178,pe,sol,pen
+179,ph,philippine peso,php
+180,pn,new zealand dollar,nzd
+181,pl,zloty,pln
+182,pt,euro,eur
+183,pr,us dollar,usd
+184,qa,qatari rial,qar
+185,re,euro,eur
+186,ro,romanian leu,ron
+187,ru,russian ruble,rub
+188,rw,rwanda franc,rwf
+189,bl,euro,eur
+191,kn,east caribbean dollar,xcd
+192,ls,east caribbean dollar,xcd
+193,mf,euro,eur
+194,pm,euro,eur
+195,vc,east caribbean dollar,xcd
+196,ws,tala,wst
+197,sm,euro,eur
+198,st,dobra,stn
+199,sa,saudi riyal,sar
+200,sn,cfa franc bceao,xof
+201,rs,serbian dinar,rsd
+202,sc,seychelles rupee,scr
+203,sl,leone,sll
+204,sl,leone,sle
+205,sg,singapore dollar,sgd
+206,sx,netherlands antillean guilder,ang
+207,sk,euro,eur
+208,sk,euro,eur
+209,sb,solomon islands dollar,sbd
+210,so,somali shilling,sos
+211,za,rand,zar
+212,gs,no universal currency,
+213,ss,south sudanese pound,ssp
+214,es,euro,eur
+215,lk,sri lanka rupee,lkr
+216,sd,sudanese pound,sdg
+217,sr,surinam dollar,srd
+218,se,swedish krona,sek
+219,ch,swiss franc,chf
+220,ch,wir euro,che
+221,ch,wir franc,chw
+222,sy,syrian pound,syp
+223,tw,new taiwan dollar,twd
+224,tj,somoni,tjs
+226,th,baht,thb
+227,tl,us dollar,usd
+228,tg,cfa franc bceao,xof
+229,to,paanga,top
+230,tt,trinidad and tobago dollar,ttd
+231,tn,tunisian dinar,tnd
+232,tr,turkish lira,try
+233,tm,turkmenistan new manat,tmt
+234,tc,us dollar,usd
+235,tv,australian dollar,aud
+236,ug,uganda shilling,ugx
+237,ua,hryvnia,uah
+238,ae,uae dirham,aed
+239,gb,pound sterling,gbp
+240,us,us dollar,usd
+241,uy,peso uruguayo,uyu
+242,uy,uruguay peso en unidades indexadas ui,uyi
+243,uy,unidad previsional,uyw
+244,uz,uzbekistan sum,uzs
+245,vu,vatu,vuv
+246,ve,bolivar soberano,ves
+247,ve,bolivar soberano,ved
+248,vn,dong,vnd
+249,vg,us dollar,usd
+250,vi,us dollar,usd
+251,wf,cfp franc,xpf
+252,ye,yemeni rial,yer
+253,zm,zambian kwacha,zmw
+254,zw,zimbabwe dollar,zwl
+255,gy,guyanese dollar,gyd
+256,lc,canadian dollar,cad
+257,ne,cfa franc bceao,xof
+258,si,euro,eur
