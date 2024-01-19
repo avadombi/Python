@@ -4,251 +4,149 @@ country_id,country_name,country_code,region,sub_region,currency_id
 3,algeria,dz,africa,northern africa,3
 4,american samoa,as,oceania,polynesia,4
 5,andorra,ad,europe,southern europe,5
-6,cyprus,cy,asia,western asia,5
-7,angola,ao,africa,subsaharan africa,6
-8,anguilla,ai,americas,latin america and the caribbean,7
-9,antigua and barbuda,ag,americas,latin america and the caribbean,7
-10,argentina,ar,americas,latin america and the caribbean,9
-11,armenia,am,asia,western asia,10
-12,aruba,aw,americas,latin america and the caribbean,11
-13,australia,au,oceania,australia and new zealand,12
-14,austria,at,europe,western europe,5
-15,azerbaijan,az,asia,western asia,14
-16,bahamas,bs,americas,latin america and the caribbean,15
-17,bahrain,bh,asia,western asia,16
-18,bangladesh,bd,asia,southern asia,17
-19,barbados,bb,americas,latin america and the caribbean,18
-20,belarus,by,europe,eastern europe,19
-21,belgium,be,europe,western europe,5
-22,belize,bz,americas,latin america and the caribbean,21
-23,benin,bj,africa,subsaharan africa,22
-24,bermuda,bm,americas,northern america,23
-25,bhutan,bt,asia,southern asia,24
-26,bhutan,bt,asia,southern asia,25
-27,bolivia,bo,americas,latin america and the caribbean,26
-28,bolivia,bo,americas,latin america and the caribbean,27
-29,bosnia and herzegovina,ba,europe,southern europe,28
-30,botswana,bw,africa,subsaharan africa,29
-31,brazil,br,americas,latin america and the caribbean,30
-32,brunei darussalam,bn,asia,southeastern asia,32
-33,bulgaria,bg,europe,eastern europe,33
-34,burkina faso,bf,africa,subsaharan africa,22
-35,burundi,bi,africa,subsaharan africa,35
-36,cabo verde,cv,africa,subsaharan africa,36
-37,cambodia,kh,asia,southeastern asia,37
-38,cameroon,cm,africa,subsaharan africa,38
-39,canada,ca,americas,northern america,39
-40,cayman islands,ky,americas,latin america and the caribbean,40
-41,central african republic,cf,africa,subsaharan africa,38
-42,chad,td,africa,subsaharan africa,38
-43,chile,cl,americas,latin america and the caribbean,43
-44,chile,cl,americas,latin america and the caribbean,44
-45,china,cn,asia,eastern asia,45
-46,christmas island,cx,oceania,australia and new zealand,12
-47,colombia,co,americas,latin america and the caribbean,48
-48,colombia,co,americas,latin america and the caribbean,49
-49,comoros,km,africa,subsaharan africa,50
-50,republic of congo,cg,africa,subsaharan africa,38
-51,democratic republic of the congo,cd,africa,subsaharan africa,51
-52,cook islands,ck,oceania,polynesia,53
-53,costa rica,cr,americas,latin america and the caribbean,54
-54,ivory coast,ci,africa,subsaharan africa,22
-55,croatia,hr,europe,southern europe,5
-56,cuba,cu,americas,latin america and the caribbean,57
-57,cuba,cu,americas,latin america and the caribbean,58
-58,curacao,cw,americas,latin america and the caribbean,59
-59,czechia,cz,europe,eastern europe,61
-60,denmark,dk,europe,northern europe,62
-61,djibouti,dj,africa,subsaharan africa,63
-62,dominica,dm,americas,latin america and the caribbean,7
-63,dominican republic,do,americas,latin america and the caribbean,65
-64,ecuador,ec,americas,latin america and the caribbean,4
-65,egypt,eg,africa,northern africa,67
-66,el salvador,sv,americas,latin america and the caribbean,68
-67,el salvador,sv,americas,latin america and the caribbean,4
-68,equatorial guinea,gq,africa,subsaharan africa,38
-69,eritrea,er,africa,subsaharan africa,71
-70,estonia,ee,europe,northern europe,5
-71,eswatini,sz,africa,subsaharan africa,73
-72,ethiopia,et,africa,subsaharan africa,74
-73,falkland islands malvinas,fk,americas,latin america and the caribbean,75
-74,faroe islands,fo,europe,northern europe,62
-75,fiji,fj,oceania,melanesia,77
-76,finland,fi,europe,northern europe,5
-77,france,fr,europe,western europe,5
-78,french guiana,gf,americas,latin america and the caribbean,5
-79,french polynesia,pf,oceania,polynesia,81
-80,macao,mo,asia,eastern asia,133
-81,gabon,ga,africa,subsaharan africa,38
-82,gambia,gm,africa,subsaharan africa,83
-83,georgia,ge,asia,western asia,84
-84,germany,de,europe,western europe,5
-85,ghana,gh,africa,subsaharan africa,86
-86,gibraltar,gi,europe,southern europe,87
-87,greece,gr,europe,southern europe,5
-88,greenland,gl,americas,northern america,62
-89,grenada,gd,americas,latin america and the caribbean,7
-90,guadeloupe,gp,americas,latin america and the caribbean,5
-91,guam,gu,oceania,micronesia,4
-92,guatemala,gt,americas,latin america and the caribbean,93
-93,guinea,gn,africa,subsaharan africa,94
-94,guinea,gn,africa,subsaharan africa,96
-95,guineabissau,gw,africa,subsaharan africa,22
-96,guyana,gy,americas,latin america and the caribbean,96
-97,haiti,ht,americas,latin america and the caribbean,97
-98,haiti,ht,americas,latin america and the caribbean,4
-99,holy see,va,europe,southern europe,5
-100,honduras,hn,americas,latin america and the caribbean,100
-101,hong kong,hk,asia,eastern asia,101
-102,hungary,hu,europe,eastern europe,102
-103,iceland,is,europe,northern europe,103
-104,india,in,asia,southern asia,24
-105,indonesia,id,asia,southeastern asia,105
-106,iran,ir,asia,southern asia,106
-107,iraq,iq,asia,western asia,107
-108,ireland,ie,europe,northern europe,5
-109,isle of man,im,europe,northern europe,109
-110,israel,il,asia,western asia,110
-111,italy,it,europe,southern europe,5
-112,jamaica,jm,americas,latin america and the caribbean,112
-113,japan,jp,asia,eastern asia,113
-114,jersey,je,europe,northern europe,109
-115,jordan,jo,asia,western asia,115
-116,kazakhstan,kz,asia,central asia,116
-117,kenya,ke,africa,subsaharan africa,117
-118,kiribati,ki,oceania,micronesia,12
-119,north korea,kp,asia,eastern asia,119
-120,south korea,kr,asia,eastern asia,120
-121,kuwait,kw,asia,western asia,121
-122,kyrgyzstan,kg,asia,central asia,122
-123,laos,la,asia,southeastern asia,123
-124,latvia,lv,europe,northern europe,5
-125,lebanon,lb,asia,western asia,125
-126,lesotho,ls,africa,subsaharan africa,126
-127,lesotho,ls,africa,subsaharan africa,127
-128,lesotho,ls,africa,subsaharan africa,7
-129,liberia,lr,africa,subsaharan africa,128
-130,libya,ly,africa,northern africa,129
-131,liechtenstein,li,europe,western europe,130
-132,lithuania,lt,europe,northern europe,5
-133,luxembourg,lu,europe,western europe,5
-134,madagascar,mg,africa,subsaharan africa,135
-135,malawi,mw,africa,subsaharan africa,136
-136,malaysia,my,asia,southeastern asia,137
-137,maldives,mv,asia,southern asia,138
-138,mali,ml,africa,subsaharan africa,22
-139,malta,mt,europe,southern europe,5
-140,marshall islands,mh,oceania,micronesia,4
-141,martinique,mq,americas,latin america and the caribbean,5
-142,mauritania,mr,africa,subsaharan africa,143
-143,mauritius,mu,africa,subsaharan africa,144
-144,mayotte,yt,africa,subsaharan africa,5
-145,mexico,mx,americas,latin america and the caribbean,146
-146,mexico,mx,americas,latin america and the caribbean,147
-147,micronesia federated states of,fm,oceania,micronesia,4
-148,monaco,mc,europe,western europe,5
-149,mongolia,mn,asia,eastern asia,151
-150,montenegro,me,europe,southern europe,5
-151,montserrat,ms,americas,latin america and the caribbean,7
-152,morocco,ma,africa,northern africa,154
-153,mozambique,mz,africa,subsaharan africa,155
-154,myanmar,mm,asia,southeastern asia,156
-155,namibia,na,africa,subsaharan africa,157
-156,namibia,na,africa,subsaharan africa,127
-157,nauru,nr,oceania,micronesia,12
-158,nepal,np,asia,southern asia,160
-159,netherlands,nl,europe,western europe,5
-160,new caledonia,nc,oceania,melanesia,81
-161,new zealand,nz,oceania,australia and new zealand,53
-162,nicaragua,ni,americas,latin america and the caribbean,164
-163,nicaragua,ni,americas,latin america and the caribbean,22
-164,niger,ne,africa,subsaharan africa,22
-165,nigeria,ng,africa,subsaharan africa,166
-166,niue,nu,oceania,polynesia,53
-167,norfolk island,nf,oceania,australia and new zealand,12
-168,reunion,re,africa,subsaharan africa,5
-169,north macedonia,mk,europe,southern europe,134
-170,saudi arabia,sa,asia,western asia,199
-171,northern mariana islands,mp,oceania,micronesia,4
-172,norway,no,europe,northern europe,170
-173,oman,om,asia,western asia,171
-174,pakistan,pk,asia,southern asia,172
-175,palau,pw,oceania,micronesia,4
-176,panama,pa,americas,latin america and the caribbean,174
-177,panama,pa,americas,latin america and the caribbean,4
-178,papua new guinea,pg,oceania,melanesia,176
-179,paraguay,py,americas,latin america and the caribbean,177
-180,peru,pe,americas,latin america and the caribbean,178
-181,philippines,ph,asia,southeastern asia,179
-182,pitcairn,pn,oceania,polynesia,53
-183,poland,pl,europe,eastern europe,181
-184,portugal,pt,europe,southern europe,5
-185,puerto rico,pr,americas,latin america and the caribbean,4
-186,qatar,qa,asia,western asia,184
-187,romania,ro,europe,eastern europe,186
-188,russian federation,ru,europe,eastern europe,187
-189,rwanda,rw,africa,subsaharan africa,188
-190,saint barthelemy,bl,americas,latin america and the caribbean,5
-191,saint kitts and nevis,kn,americas,latin america and the caribbean,7
-192,saint lucia,lc,americas,latin america and the caribbean,39
-193,saint martin french part,mf,americas,latin america and the caribbean,5
-194,saint pierre and miquelon,pm,americas,northern america,5
-195,saint vincent and the grenadines,vc,americas,latin america and the caribbean,7
-196,samoa,ws,oceania,polynesia,196
-197,san marino,sm,europe,southern europe,5
-198,sao tome and principe,st,africa,subsaharan africa,198
-199,senegal,sn,africa,subsaharan africa,22
-200,serbia,rs,europe,southern europe,201
-201,seychelles,sc,africa,subsaharan africa,202
-202,sierra leone,sl,africa,subsaharan africa,203
-203,sierra leone,sl,africa,subsaharan africa,204
-204,zimbabwe,zw,africa,subsaharan africa,254
-205,singapore,sg,asia,southeastern asia,205
-206,sint maarten dutch part,sx,americas,latin america and the caribbean,59
-207,slovakia,sk,europe,eastern europe,5
-208,slovakia,sk,europe,eastern europe,5
-209,slovenia,si,europe,southern europe,5
-210,solomon islands,sb,oceania,melanesia,209
-211,somalia,so,africa,subsaharan africa,210
-212,south africa,za,africa,subsaharan africa,127
-213,south georgia and the south sandwich islands,gs,americas,latin america and the caribbean,212
-214,south sudan,ss,africa,subsaharan africa,213
-215,spain,es,europe,southern europe,5
-216,sri lanka,lk,asia,southern asia,215
-217,sudan,sd,africa,northern africa,216
-218,suriname,sr,americas,latin america and the caribbean,217
-219,sweden,se,europe,northern europe,218
-220,switzerland,ch,europe,western europe,130
-221,switzerland,ch,europe,western europe,220
-222,switzerland,ch,europe,western europe,221
-223,syrian arab republic,sy,asia,western asia,222
-224,taiwan,tw,asia,eastern asia,223
-225,tajikistan,tj,asia,central asia,224
-226,thailand,th,asia,southeastern asia,226
-227,timorleste,tl,asia,southeastern asia,4
-228,togo,tg,africa,subsaharan africa,22
-229,tonga,to,oceania,polynesia,229
-230,trinidad and tobago,tt,americas,latin america and the caribbean,230
-231,tunisia,tn,africa,northern africa,231
-232,turkey,tr,asia,western asia,232
-233,turkmenistan,tm,asia,central asia,233
-234,turks and caicos islands,tc,americas,latin america and the caribbean,4
-235,tuvalu,tv,oceania,polynesia,12
-236,uganda,ug,africa,subsaharan africa,236
-237,ukraine,ua,europe,eastern europe,237
-238,united arab emirates,ae,asia,western asia,238
-239,united kingdom,gb,europe,northern europe,109
-240,united states of america,us,americas,northern america,4
-241,uruguay,uy,americas,latin america and the caribbean,241
-242,uruguay,uy,americas,latin america and the caribbean,242
-243,uruguay,uy,americas,latin america and the caribbean,243
-244,uzbekistan,uz,asia,central asia,244
-245,vanuatu,vu,oceania,melanesia,245
-246,venezuela bolivarian republic of,ve,americas,latin america and the caribbean,246
-247,venezuela bolivarian republic of,ve,americas,latin america and the caribbean,247
-248,viet nam,vn,asia,southeastern asia,248
-249,virgin islands british,vg,americas,latin america and the caribbean,4
-250,virgin islands u.s.,vi,americas,latin america and the caribbean,4
-251,wallis and futuna,wf,oceania,polynesia,81
-252,yemen,ye,asia,western asia,252
-253,zambia,zm,africa,subsaharan africa,253
+6,angola,ao,africa,subsaharan africa,6
+7,anguilla,ai,americas,latin america and the caribbean,7
+8,argentina,ar,americas,latin america and the caribbean,9
+9,armenia,am,asia,western asia,10
+10,aruba,aw,americas,latin america and the caribbean,11
+11,australia,au,oceania,australia and new zealand,12
+12,azerbaijan,az,asia,western asia,14
+13,bahamas,bs,americas,latin america and the caribbean,15
+14,bahrain,bh,asia,western asia,16
+15,bangladesh,bd,asia,southern asia,17
+16,barbados,bb,americas,latin america and the caribbean,18
+17,belarus,by,europe,eastern europe,19
+18,belize,bz,americas,latin america and the caribbean,21
+19,benin,bj,africa,subsaharan africa,22
+20,bermuda,bm,americas,northern america,23
+21,bhutan,bt,asia,southern asia,24
+22,bolivia,bo,americas,latin america and the caribbean,26
+23,bosnia and herzegovina,ba,europe,southern europe,28
+24,botswana,bw,africa,subsaharan africa,29
+25,brazil,br,americas,latin america and the caribbean,30
+26,brunei darussalam,bn,asia,southeastern asia,32
+27,bulgaria,bg,europe,eastern europe,33
+28,burundi,bi,africa,subsaharan africa,35
+29,cabo verde,cv,africa,subsaharan africa,36
+30,cambodia,kh,asia,southeastern asia,37
+31,cameroon,cm,africa,subsaharan africa,38
+32,canada,ca,americas,northern america,39
+33,cayman islands,ky,americas,latin america and the caribbean,40
+34,chile,cl,americas,latin america and the caribbean,43
+35,china,cn,asia,eastern asia,45
+36,colombia,co,americas,latin america and the caribbean,48
+37,comoros,km,africa,subsaharan africa,50
+38,cook islands,ck,oceania,polynesia,53
+39,costa rica,cr,americas,latin america and the caribbean,54
+40,cuba,cu,americas,latin america and the caribbean,57
+41,curacao,cw,americas,latin america and the caribbean,59
+42,czechia,cz,europe,eastern europe,61
+43,democratic republic of the congo,cd,africa,subsaharan africa,51
+44,denmark,dk,europe,northern europe,62
+45,djibouti,dj,africa,subsaharan africa,63
+46,dominican republic,do,americas,latin america and the caribbean,65
+47,egypt,eg,africa,northern africa,67
+48,el salvador,sv,americas,latin america and the caribbean,68
+49,eritrea,er,africa,subsaharan africa,71
+50,eswatini,sz,africa,subsaharan africa,73
+51,ethiopia,et,africa,subsaharan africa,74
+52,falkland islands malvinas,fk,americas,latin america and the caribbean,75
+53,fiji,fj,oceania,melanesia,77
+54,french polynesia,pf,oceania,polynesia,81
+55,gambia,gm,africa,subsaharan africa,83
+56,georgia,ge,asia,western asia,84
+57,ghana,gh,africa,subsaharan africa,86
+58,gibraltar,gi,europe,southern europe,87
+59,guatemala,gt,americas,latin america and the caribbean,93
+60,guinea,gn,africa,subsaharan africa,94
+61,haiti,ht,americas,latin america and the caribbean,97
+62,honduras,hn,americas,latin america and the caribbean,100
+63,hong kong,hk,asia,eastern asia,101
+64,hungary,hu,europe,eastern europe,102
+65,iceland,is,europe,northern europe,103
+66,indonesia,id,asia,southeastern asia,105
+67,iran,ir,asia,southern asia,106
+68,iraq,iq,asia,western asia,107
+69,isle of man,im,europe,northern europe,109
+70,israel,il,asia,western asia,110
+71,jamaica,jm,americas,latin america and the caribbean,112
+72,japan,jp,asia,eastern asia,113
+73,jordan,jo,asia,western asia,115
+74,kazakhstan,kz,asia,central asia,116
+75,kenya,ke,africa,subsaharan africa,117
+76,kuwait,kw,asia,western asia,121
+77,kyrgyzstan,kg,asia,central asia,122
+78,laos,la,asia,southeastern asia,123
+79,lebanon,lb,asia,western asia,125
+80,lesotho,ls,africa,subsaharan africa,126
+81,liberia,lr,africa,subsaharan africa,128
+82,libya,ly,africa,northern africa,129
+83,liechtenstein,li,europe,western europe,130
+84,macao,mo,asia,eastern asia,133
+85,madagascar,mg,africa,subsaharan africa,135
+86,malawi,mw,africa,subsaharan africa,136
+87,malaysia,my,asia,southeastern asia,137
+88,maldives,mv,asia,southern asia,138
+89,mauritania,mr,africa,subsaharan africa,143
+90,mauritius,mu,africa,subsaharan africa,144
+91,mexico,mx,americas,latin america and the caribbean,146
+92,mongolia,mn,asia,eastern asia,151
+93,morocco,ma,africa,northern africa,154
+94,mozambique,mz,africa,subsaharan africa,155
+95,myanmar,mm,asia,southeastern asia,156
+96,namibia,na,africa,subsaharan africa,157
+97,nepal,np,asia,southern asia,160
+98,nicaragua,ni,americas,latin america and the caribbean,164
+99,nigeria,ng,africa,subsaharan africa,166
+100,north korea,kp,asia,eastern asia,119
+101,north macedonia,mk,europe,southern europe,134
+102,norway,no,europe,northern europe,170
+103,oman,om,asia,western asia,171
+104,pakistan,pk,asia,southern asia,172
+105,panama,pa,americas,latin america and the caribbean,174
+106,papua new guinea,pg,oceania,melanesia,176
+107,paraguay,py,americas,latin america and the caribbean,177
+108,peru,pe,americas,latin america and the caribbean,178
+109,philippines,ph,asia,southeastern asia,179
+110,poland,pl,europe,eastern europe,181
+111,qatar,qa,asia,western asia,184
+112,romania,ro,europe,eastern europe,186
+113,russian federation,ru,europe,eastern europe,187
+114,rwanda,rw,africa,subsaharan africa,188
+115,samoa,ws,oceania,polynesia,196
+116,sao tome and principe,st,africa,subsaharan africa,198
+117,saudi arabia,sa,asia,western asia,199
+118,serbia,rs,europe,southern europe,201
+119,seychelles,sc,africa,subsaharan africa,202
+120,sierra leone,sl,africa,subsaharan africa,203
+121,singapore,sg,asia,southeastern asia,205
+122,solomon islands,sb,oceania,melanesia,209
+123,somalia,so,africa,subsaharan africa,210
+124,south georgia and the south sandwich islands,gs,americas,latin america and the caribbean,212
+125,south korea,kr,asia,eastern asia,120
+126,south sudan,ss,africa,subsaharan africa,213
+127,sri lanka,lk,asia,southern asia,215
+128,sudan,sd,africa,northern africa,216
+129,suriname,sr,americas,latin america and the caribbean,217
+130,sweden,se,europe,northern europe,218
+131,switzerland,ch,europe,western europe,220
+132,syrian arab republic,sy,asia,western asia,222
+133,taiwan,tw,asia,eastern asia,223
+134,tajikistan,tj,asia,central asia,224
+135,thailand,th,asia,southeastern asia,226
+136,tonga,to,oceania,polynesia,229
+137,trinidad and tobago,tt,americas,latin america and the caribbean,230
+138,tunisia,tn,africa,northern africa,231
+139,turkey,tr,asia,western asia,232
+140,turkmenistan,tm,asia,central asia,233
+141,uganda,ug,africa,subsaharan africa,236
+142,ukraine,ua,europe,eastern europe,237
+143,united arab emirates,ae,asia,western asia,238
+144,uruguay,uy,americas,latin america and the caribbean,241
+145,uzbekistan,uz,asia,central asia,244
+146,vanuatu,vu,oceania,melanesia,245
+147,venezuela bolivarian republic of,ve,americas,latin america and the caribbean,246
+148,viet nam,vn,asia,southeastern asia,248
+149,yemen,ye,asia,western asia,252
+150,zambia,zm,africa,subsaharan africa,253
+151,zimbabwe,zw,africa,subsaharan africa,254

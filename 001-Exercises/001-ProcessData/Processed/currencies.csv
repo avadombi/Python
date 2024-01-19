@@ -20,9 +20,7 @@ currency_id,currency_name,currency_code
 22,cfa franc bceao,xof
 23,bermudian dollar,bmd
 24,indian rupee,inr
-25,ngultrum,btn
 26,boliviano,bob
-27,mvdol,bov
 28,convertible mark,bam
 29,pula,bwp
 30,brazilian real,brl
@@ -35,16 +33,13 @@ currency_id,currency_name,currency_code
 39,canadian dollar,cad
 40,cayman islands dollar,kyd
 43,chilean peso,clp
-44,unidad de fomento,clf
 45,yuan renminbi,cny
 48,colombian peso,cop
-49,unidad de valor real,cou
 50,comorian franc,kmf
 51,congolese franc,cdf
 53,new zealand dollar,nzd
 54,costa rican colon,crc
 57,cuban peso,cup
-58,peso convertible,cuc
 59,netherlands antillean guilder,ang
 61,czech koruna,czk
 62,danish krone,dkk
@@ -64,7 +59,6 @@ currency_id,currency_name,currency_code
 87,gibraltar pound,gip
 93,quetzal,gtq
 94,guinean franc,gnf
-96,guyana dollar,gyd
 97,gourde,htg
 100,lempira,hnl
 101,hong kong dollar,hkd
@@ -87,7 +81,6 @@ currency_id,currency_name,currency_code
 123,lao kip,lak
 125,lebanese pound,lbp
 126,loti,lsl
-127,rand,zar
 128,liberian dollar,lrd
 129,libyan dinar,lyd
 130,swiss franc,chf
@@ -100,7 +93,6 @@ currency_id,currency_name,currency_code
 143,ouguiya,mru
 144,mauritius rupee,mur
 146,mexican peso,mxn
-147,mexican unidad de inversion udi,mxv
 151,tugrik,mnt
 154,moroccan dirham,mad
 155,mozambique metical,mzn
@@ -128,7 +120,6 @@ currency_id,currency_name,currency_code
 201,serbian dinar,rsd
 202,seychelles rupee,scr
 203,leone,sll
-204,leone,sle
 205,singapore dollar,sgd
 209,solomon islands dollar,sbd
 210,somali shilling,sos
@@ -139,7 +130,6 @@ currency_id,currency_name,currency_code
 217,surinam dollar,srd
 218,swedish krona,sek
 220,wir euro,che
-221,wir franc,chw
 222,syrian pound,syp
 223,new taiwan dollar,twd
 224,somoni,tjs
@@ -153,12 +143,9 @@ currency_id,currency_name,currency_code
 237,hryvnia,uah
 238,uae dirham,aed
 241,peso uruguayo,uyu
-242,uruguay peso en unidades indexadas ui,uyi
-243,unidad previsional,uyw
 244,uzbekistan sum,uzs
 245,vatu,vuv
 246,bolivar soberano,ves
-247,bolivar soberano,ved
 248,dong,vnd
 252,yemeni rial,yer
 253,zambian kwacha,zmw
