@@ -110,10 +110,12 @@ def get_processed_cities():
     # merge
     merged_data = pd.merge(
         cities_data, proc_countries,
-        on='country_code', how='left'
+        on='country_code', how='inner'
     )
 
     columns = ['city_name', 'latitude', 'longitude',
                'capital', 'population', 'country_id']
     cities_data = merged_data[columns]
+
+    # print(cities_data[cities_data['country_id']])
     return cities_data
