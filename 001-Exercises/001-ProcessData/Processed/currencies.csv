@@ -1,6 +1,11 @@
 currency_id,currency_name,currency_code
 1,afghani,afn
+2,lek,all
 3,algerian dinar,dzd
+4,us dollar,usd
+5,euro,eur
+6,kwanza,aoa
+7,east caribbean dollar,xcd
 9,argentine peso,ars
 10,armenian dram,amd
 11,aruban florin,awg
@@ -8,158 +13,153 @@ currency_id,currency_name,currency_code
 14,azerbaijan manat,azn
 15,bahamian dollar,bsd
 16,bahraini dinar,bhd
-226,baht,thb
-174,balboa,pab
+17,taka,bdt
 18,barbados dollar,bbd
 19,belarusian ruble,byn
 21,belize dollar,bzd
+22,cfa franc bceao,xof
 23,bermudian dollar,bmd
-246,bolivar soberano,ves
-247,bolivar soberano,ved
+24,indian rupee,inr
+25,ngultrum,btn
 26,boliviano,bob
+27,mvdol,bov
+28,convertible mark,bam
+29,pula,bwp
 30,brazilian real,brl
 32,brunei dollar,bnd
 33,bulgarian lev,bgn
 35,burundi franc,bif
 36,cabo verde escudo,cve
+37,riel,khr
+38,cfa franc beac,xaf
 39,canadian dollar,cad
 40,cayman islands dollar,kyd
-22,cfa franc bceao,xof
-38,cfa franc beac,xaf
-81,cfp franc,xpf
 43,chilean peso,clp
+44,unidad de fomento,clf
+45,yuan renminbi,cny
 48,colombian peso,cop
+49,unidad de valor real,cou
 50,comorian franc,kmf
 51,congolese franc,cdf
-28,convertible mark,bam
-164,cordoba oro,nio
+53,new zealand dollar,nzd
 54,costa rican colon,crc
 57,cuban peso,cup
+58,peso convertible,cuc
+59,netherlands antillean guilder,ang
 61,czech koruna,czk
-83,dalasi,gmd
 62,danish krone,dkk
-134,denar,mkd
 63,djibouti franc,djf
-198,dobra,stn
 65,dominican peso,dop
-248,dong,vnd
-7,east caribbean dollar,xcd
 67,egyptian pound,egp
 68,el salvador colon,svc
+71,nakfa,ern
+73,lilangeni,szl
 74,ethiopian birr,etb
-5,euro,eur
 75,falkland islands pound,fkp
 77,fiji dollar,fjd
-102,forint,huf
+81,cfp franc,xpf
+83,dalasi,gmd
+84,lari,gel
 86,ghana cedi,ghs
 87,gibraltar pound,gip
-97,gourde,htg
-177,guarani,pyg
+93,quetzal,gtq
 94,guinean franc,gnf
 96,guyana dollar,gyd
+97,gourde,htg
+100,lempira,hnl
 101,hong kong dollar,hkd
-237,hryvnia,uah
+102,forint,huf
 103,iceland krona,isk
-24,indian rupee,inr
+105,rupiah,idr
 106,iranian rial,irr
 107,iraqi dinar,iqd
+109,pound sterling,gbp
+110,new israeli sheqel,ils
 112,jamaican dollar,jmd
+113,yen,jpy
 115,jordanian dinar,jod
+116,tenge,kzt
 117,kenyan shilling,kes
-176,kina,pgk
+119,north korean won,kpw
+120,won,krw
 121,kuwaiti dinar,kwd
-6,kwanza,aoa
-156,kyat,mmk
+122,som,kgs
 123,lao kip,lak
-84,lari,gel
 125,lebanese pound,lbp
-2,lek,all
-100,lempira,hnl
-203,leone,sll
-204,leone,sle
+126,loti,lsl
+127,rand,zar
 128,liberian dollar,lrd
 129,libyan dinar,lyd
-73,lilangeni,szl
-126,loti,lsl
+130,swiss franc,chf
+133,pataca,mop
+134,denar,mkd
 135,malagasy ariary,mga
 136,malawi kwacha,mwk
 137,malaysian ringgit,myr
+138,rufiyaa,mvr
+143,ouguiya,mru
 144,mauritius rupee,mur
 146,mexican peso,mxn
 147,mexican unidad de inversion udi,mxv
+151,tugrik,mnt
 154,moroccan dirham,mad
 155,mozambique metical,mzn
-27,mvdol,bov
-166,naira,ngn
-71,nakfa,ern
+156,kyat,mmk
 157,namibia dollar,nad
 160,nepalese rupee,npr
-59,netherlands antillean guilder,ang
-110,new israeli sheqel,ils
-223,new taiwan dollar,twd
-53,new zealand dollar,nzd
-25,ngultrum,btn
-212,no universal currency,
-119,north korean won,kpw
+164,cordoba oro,nio
+166,naira,ngn
 170,norwegian krone,nok
-143,ouguiya,mru
-229,paanga,top
-172,pakistan rupee,pkr
-133,pataca,mop
-58,peso convertible,cuc
-241,peso uruguayo,uyu
-179,philippine peso,php
-109,pound sterling,gbp
-29,pula,bwp
-184,qatari rial,qar
-93,quetzal,gtq
-127,rand,zar
 171,rial omani,omr
-37,riel,khr
+172,pakistan rupee,pkr
+174,balboa,pab
+176,kina,pgk
+177,guarani,pyg
+178,sol,pen
+179,philippine peso,php
+181,zloty,pln
+184,qatari rial,qar
 186,romanian leu,ron
-138,rufiyaa,mvr
-105,rupiah,idr
 187,russian ruble,rub
 188,rwanda franc,rwf
+196,tala,wst
+198,dobra,stn
 199,saudi riyal,sar
 201,serbian dinar,rsd
 202,seychelles rupee,scr
+203,leone,sll
+204,leone,sle
 205,singapore dollar,sgd
-178,sol,pen
 209,solomon islands dollar,sbd
-122,som,kgs
 210,somali shilling,sos
-224,somoni,tjs
+212,no universal currency,
 213,south sudanese pound,ssp
 215,sri lanka rupee,lkr
 216,sudanese pound,sdg
 217,surinam dollar,srd
 218,swedish krona,sek
-130,swiss franc,chf
+220,wir euro,che
+221,wir franc,chw
 222,syrian pound,syp
-17,taka,bdt
-196,tala,wst
-116,tenge,kzt
+223,new taiwan dollar,twd
+224,somoni,tjs
+226,baht,thb
+229,paanga,top
 230,trinidad and tobago dollar,ttd
-151,tugrik,mnt
 231,tunisian dinar,tnd
 232,turkish lira,try
 233,turkmenistan new manat,tmt
-238,uae dirham,aed
 236,uganda shilling,ugx
-44,unidad de fomento,clf
-49,unidad de valor real,cou
-243,unidad previsional,uyw
+237,hryvnia,uah
+238,uae dirham,aed
+241,peso uruguayo,uyu
 242,uruguay peso en unidades indexadas ui,uyi
-4,us dollar,usd
+243,unidad previsional,uyw
 244,uzbekistan sum,uzs
 245,vatu,vuv
-220,wir euro,che
-221,wir franc,chw
-120,won,krw
+246,bolivar soberano,ves
+247,bolivar soberano,ved
+248,dong,vnd
 252,yemeni rial,yer
-113,yen,jpy
-45,yuan renminbi,cny
 253,zambian kwacha,zmw
 254,zimbabwe dollar,zwl
-181,zloty,pln

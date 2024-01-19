@@ -42,6 +42,8 @@ def get_processed_currencies():
     columns = ['currency_id', 'currency_name', 'currency_code']
     currencies_no_duplicates = currencies_no_duplicates[columns]
 
+    # sort
+    currencies_no_duplicates = currencies_no_duplicates.sort_values(by='currency_id')
     return currencies_no_duplicates
 
 
