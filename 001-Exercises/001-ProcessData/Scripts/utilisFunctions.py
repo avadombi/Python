@@ -83,7 +83,7 @@ def get_process_countries():
     countries_data = countries_data[columns]
 
     # add index column
-    countries_data['country_id'] = countries_data.index
+    countries_data['country_id'] = countries_data.index + 1
     columns = ['country_id', 'country_name', 'country_code', 'region',
                'sub_region', 'currency_id']
     countries_data = countries_data[columns]
