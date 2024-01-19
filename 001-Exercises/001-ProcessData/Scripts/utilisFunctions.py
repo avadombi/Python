@@ -1,7 +1,7 @@
 import pandas as pd
 
-DIR_PATH = '../../Raw'
-SAVE_PATH = '../../Processed'
+DIR_PATH = '../Raw'
+SAVE_PATH = '../Processed'
 
 
 def get_countries():
